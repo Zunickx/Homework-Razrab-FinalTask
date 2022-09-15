@@ -1,0 +1,15 @@
+C:\Users\we\Desktop\Homework Spec\TaskSpec\bin\Debug\net6.0\TaskSpec.exe
+C:\Users\we\Desktop\Homework Spec\TaskSpec\bin\Debug\net6.0\TaskSpec.deps.json
+C:\Users\we\Desktop\Homework Spec\TaskSpec\bin\Debug\net6.0\TaskSpec.runtimeconfig.json
+C:\Users\we\Desktop\Homework Spec\TaskSpec\bin\Debug\net6.0\TaskSpec.dll
+C:\Users\we\Desktop\Homework Spec\TaskSpec\bin\Debug\net6.0\TaskSpec.pdb
+C:\Users\we\Desktop\Homework Spec\TaskSpec\obj\Debug\net6.0\TaskSpec.csproj.AssemblyReference.cache
+C:\Users\we\Desktop\Homework Spec\TaskSpec\obj\Debug\net6.0\TaskSpec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\we\Desktop\Homework Spec\TaskSpec\obj\Debug\net6.0\TaskSpec.AssemblyInfoInputs.cache
+C:\Users\we\Desktop\Homework Spec\TaskSpec\obj\Debug\net6.0\TaskSpec.AssemblyInfo.cs
+C:\Users\we\Desktop\Homework Spec\TaskSpec\obj\Debug\net6.0\TaskSpec.csproj.CoreCompileInputs.cache
+C:\Users\we\Desktop\Homework Spec\TaskSpec\obj\Debug\net6.0\TaskSpec.dll
+C:\Users\we\Desktop\Homework Spec\TaskSpec\obj\Debug\net6.0\refint\TaskSpec.dll
+C:\Users\we\Desktop\Homework Spec\TaskSpec\obj\Debug\net6.0\TaskSpec.pdb
+C:\Users\we\Desktop\Homework Spec\TaskSpec\obj\Debug\net6.0\TaskSpec.genruntimeconfig.cache
+C:\Users\we\Desktop\Homework Spec\TaskSpec\obj\Debug\net6.0\ref\TaskSpec.dll
