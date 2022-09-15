@@ -1,4 +1,6 @@
-﻿string[] textArray = new string[5] {"hello", "2", "world", ":-)", "!"};
+﻿// Написать программу, которая из имеющегося массива строк формирует массив строк, длинна которых меньше либо равна 3 символам
+
+string[] textArray = new string[5] {"hello", "2", "world", ":-)", "!"};
 string[] modifiedArray = new string[textArray.Length];
 
 void Modified(string[] textArray, string[] modifiedArray)
